@@ -3,9 +3,8 @@
 ## Project Skeleton
 
 ```
-002-NBA Legends(folder)
-|
-|----readme.md         # Given to the students (Definition of the project)
+NBA Legends(folder)
+
 SOLUTION
 ├── public
 │     └── index.html
